@@ -5,7 +5,7 @@
 
 # Expo
 
-<img src="screenshot.png" alt="assets\images\screenshot of the example app" width="100%" />
+<img src="assets\images\screenshot.png" alt="screenshot of the example app" width="100%" />
 
 ## CI/CD on Elestio
 
