@@ -3,7 +3,25 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/expo"><img src="assets\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-# Expo
+
+# Expo!
+
+This is a very basic example of a simple Expo app.
+
+
+Clone this [elestio-examples/expo](https://github.com/elestio-examples/expo) 
+
+```
+git clone https://github.com/elestio-examples/expo.git
+```
+Change into project directory.
+
+```
+yarn install
+yarn web
+```
+
+This starts your app in development mode, make the changes and push.
 
 <img src="assets\images\screenshot.png" alt="screenshot of the example app" width="100%" />
 
