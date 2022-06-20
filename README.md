@@ -1,6 +1,6 @@
-# Expo on Elestio
+# Expo using expo init on Elestio
 
-This is a minimal example of a Expo site created using expo init
+This is a minimal example of a Expo app created using expo init
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
